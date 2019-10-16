@@ -1,3 +1,5 @@
+Caution: This library is deprecated.
+
 # client.js
 
 The personium.io client for the browser.
